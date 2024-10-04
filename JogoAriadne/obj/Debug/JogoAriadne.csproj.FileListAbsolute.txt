@@ -1,0 +1,33 @@
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csprojAssemblyReference.cache
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.Form1.resources
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.Properties.Resources.resources
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csproj.GenerateResource.cache
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csproj.CoreCompileInputs.cache
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.exe.config
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.exe
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.pdb
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.exe
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.pdb
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.exe.config
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.exe
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.pdb
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csprojAssemblyReference.cache
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.Form1.resources
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.Properties.Resources.resources
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.TelaGame.resources
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csproj.GenerateResource.cache
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csproj.CoreCompileInputs.cache
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.exe
+C:\Users\Marlete\Desktop\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.pdb
+C:\Users\195503\Desktop\I3A-Ariadne\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.TelaGame.resources
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.exe.config
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.exe
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\bin\Debug\JogoAriadne.pdb
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csprojAssemblyReference.cache
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.Form1.resources
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.Properties.Resources.resources
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.TelaGame.resources
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csproj.GenerateResource.cache
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.csproj.CoreCompileInputs.cache
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.exe
+C:\Users\Marlete\Desktop\Projetos Ari\JogoAriadne\JogoAriadne\JogoAriadne\obj\Debug\JogoAriadne.pdb
